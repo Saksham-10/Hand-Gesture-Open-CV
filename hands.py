@@ -35,7 +35,7 @@ from mediapipe.calculators.util import logic_calculator_pb2
 from mediapipe.calculators.util import non_max_suppression_calculator_pb2
 from mediapipe.calculators.util import rect_transformation_calculator_pb2
 from mediapipe.calculators.util import thresholding_calculator_pb2
-# pylint: enable=unused-import
+# pylint: enable=unused-impor
 from mediapipe.python.solution_base import SolutionBase
 # pylint: disable=unused-import
 from mediapipe.python.solutions.hands_connections import HAND_CONNECTIONS
